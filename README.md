@@ -18,6 +18,10 @@
 
 <br>
 
+<img src="images/sqlite3.png">
+
+<br>
+
 <img src="images/mongodb.png">
 
 <br>
